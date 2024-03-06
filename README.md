@@ -2,8 +2,6 @@
 
 <p>I&#39; improving myself in <strong>BackEnd</strong>and <strong>FrontEnd</strong> field for 2 years</p>
 
-<a href='https://ysportfoliocv.vercel.app/'>My Personal Site</a>
-
 <h3>Connect with me:</h3>
 
 <p><a href="https://www.linkedin.com/in/ekin-karako%C3%A7-01a492239/" target="_blank"><img alt="ekinkarakoc" src="./social_icon/linked-in-alt.svg" width="40" /></a>&nbsp; &nbsp;
