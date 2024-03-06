@@ -1,4 +1,4 @@
-<h1>Hi 👋, I&#39;m Sertaç YILDIRIR</h1>
+<h1>Hi 👋, I&#39;m Ekin KARAKOÇ</h1>
 
 <p>I&#39; improving myself in <strong>BackEnd</strong>and <strong>FrontEnd</strong> field for 2 years</p>
 
